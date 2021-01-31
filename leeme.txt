@@ -1,0 +1,2 @@
+Los archivos: sample.html, funciones.js y modulos.js solo se pueden ejecutar en un servidor web e.g. apache. Son un ejemplo de creación de módulos
+en javascript basados en el video: https://www.youtube.com/watch?v=iA_Y6wI6oU0&list=LL&index=1
